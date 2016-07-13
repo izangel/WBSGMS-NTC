@@ -10,3 +10,4 @@
 				?>
 				</strong>
 			</div>
+			<div>Heading</div>
